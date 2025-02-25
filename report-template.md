@@ -41,13 +41,13 @@ I would have used different independent models such as XGBoOOST ETC.
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
-
+img/model_train_score.png
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+img/model_test_score.png
+
 
 ## Summary
 T
